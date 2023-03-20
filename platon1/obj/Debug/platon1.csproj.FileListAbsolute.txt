@@ -1,0 +1,16 @@
+D:\практика\платон\platon1\platon1\bin\Debug\platon1.exe.config
+D:\практика\платон\platon1\platon1\bin\Debug\platon1.exe
+D:\практика\платон\platon1\platon1\bin\Debug\platon1.pdb
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.csproj.AssemblyReference.cache
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.csproj.SuggestedBindingRedirects.cache
+D:\практика\платон\platon1\platon1\obj\Debug\MainWindow.g.cs
+D:\практика\платон\platon1\platon1\obj\Debug\App.g.cs
+D:\практика\платон\platon1\platon1\obj\Debug\platon1_MarkupCompile.cache
+D:\практика\платон\platon1\platon1\obj\Debug\platon1_MarkupCompile.lref
+D:\практика\платон\platon1\platon1\obj\Debug\MainWindow.baml
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.g.resources
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.Properties.Resources.resources
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.csproj.GenerateResource.cache
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.csproj.CoreCompileInputs.cache
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.exe
+D:\практика\платон\platon1\platon1\obj\Debug\platon1.pdb
